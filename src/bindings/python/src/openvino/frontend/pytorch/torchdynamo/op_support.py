@@ -229,6 +229,7 @@ class OperatorSupport(OpSupport):
             "torch.ops.aten.slice.Tensor": None,
             "torch.ops.aten.slice_copy.Tensor": None,
             "torch.ops.aten.slice_scatter.default": None,
+            "torch.ops.aten.smooth_l1_loss.default": None,
             "torch.ops.aten.sort.default": None,
             "torch.ops.aten.split.Tensor": None,
             "torch.ops.aten.split_with_sizes.default": None,
